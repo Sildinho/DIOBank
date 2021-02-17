@@ -1,0 +1,13 @@
+C:\Users\peres\source\repos\BankDIO\TransferenciasBancariasDIO\TransferenciasBancariasDIO\bin\Debug\netcoreapp3.1\TransferenciasBancariasDIO.exe
+C:\Users\peres\source\repos\BankDIO\TransferenciasBancariasDIO\TransferenciasBancariasDIO\bin\Debug\netcoreapp3.1\TransferenciasBancariasDIO.deps.json
+C:\Users\peres\source\repos\BankDIO\TransferenciasBancariasDIO\TransferenciasBancariasDIO\bin\Debug\netcoreapp3.1\TransferenciasBancariasDIO.runtimeconfig.json
+C:\Users\peres\source\repos\BankDIO\TransferenciasBancariasDIO\TransferenciasBancariasDIO\bin\Debug\netcoreapp3.1\TransferenciasBancariasDIO.runtimeconfig.dev.json
+C:\Users\peres\source\repos\BankDIO\TransferenciasBancariasDIO\TransferenciasBancariasDIO\bin\Debug\netcoreapp3.1\TransferenciasBancariasDIO.dll
+C:\Users\peres\source\repos\BankDIO\TransferenciasBancariasDIO\TransferenciasBancariasDIO\bin\Debug\netcoreapp3.1\TransferenciasBancariasDIO.pdb
+C:\Users\peres\source\repos\BankDIO\TransferenciasBancariasDIO\TransferenciasBancariasDIO\obj\Debug\netcoreapp3.1\TransferenciasBancariasDIO.csprojAssemblyReference.cache
+C:\Users\peres\source\repos\BankDIO\TransferenciasBancariasDIO\TransferenciasBancariasDIO\obj\Debug\netcoreapp3.1\TransferenciasBancariasDIO.AssemblyInfoInputs.cache
+C:\Users\peres\source\repos\BankDIO\TransferenciasBancariasDIO\TransferenciasBancariasDIO\obj\Debug\netcoreapp3.1\TransferenciasBancariasDIO.AssemblyInfo.cs
+C:\Users\peres\source\repos\BankDIO\TransferenciasBancariasDIO\TransferenciasBancariasDIO\obj\Debug\netcoreapp3.1\TransferenciasBancariasDIO.csproj.CoreCompileInputs.cache
+C:\Users\peres\source\repos\BankDIO\TransferenciasBancariasDIO\TransferenciasBancariasDIO\obj\Debug\netcoreapp3.1\TransferenciasBancariasDIO.dll
+C:\Users\peres\source\repos\BankDIO\TransferenciasBancariasDIO\TransferenciasBancariasDIO\obj\Debug\netcoreapp3.1\TransferenciasBancariasDIO.pdb
+C:\Users\peres\source\repos\BankDIO\TransferenciasBancariasDIO\TransferenciasBancariasDIO\obj\Debug\netcoreapp3.1\TransferenciasBancariasDIO.genruntimeconfig.cache
